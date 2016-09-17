@@ -1,0 +1,79 @@
+// friends.js
+var friendsArray = [{
+  "name":"Lauren",
+  "photo":"http://vignette3.wikia.nocookie.net/michellepfeiffer/images/5/56/Batman-returns-catwoman-michelle-pfeiffer.jpg/revision/latest?cb=20130622075037",
+  "scores":[
+     5,
+     1,
+     4,
+     4,
+     5,
+     1,
+     2,
+     5,
+     4,
+     1
+   ]
+},{
+  "name":"Nicholas",
+  "photo":"http://cdn.playbuzz.com/cdn/e74b147f-3de7-4d0d-816a-eb44c8fea8bd/3af62f60-4726-4531-8eb5-76c63b092c90.jpg",
+  "scores":[
+     5,
+     1,
+     4,
+     4,
+     5,
+     1,
+     2,
+     5,
+     4,
+     1
+   ]
+},{
+  "name":"Sean",
+  "photo":"http://static.boredpanda.com/blog/wp-content/uploads/2015/11/the-daily-life-of-darth-vader-is-my-latest-365-day-photo-project-33__880.jpg",
+  "scores":[
+     5,
+     1,
+     4,
+     4,
+     5,
+     1,
+     2,
+     5,
+     4,
+     1
+   ]
+},{
+  "name":"Jesus",
+  "photo":"http://static5.businessinsider.com/image/57914dbfdd08951c618b4bbc-506-253/this-map-shows-exactly-where-certain-pokmon-are-hiding-and-it-works-like-magic.jpg",
+  "scores":[
+     5,
+     1,
+     4,
+     4,
+     5,
+     1,
+     2,
+     5,
+     4,
+     1
+   ]
+},{
+  "name":"Red",
+  "photo":"https://img.buzzfeed.com/buzzfeed-static/static/2015-12/16/17/campaign_images/webdr02/21-times-red-forman-was-the-realest-fucker-on-the-2-19311-1450304761-1_dblbig.jpg",
+  "scores":[
+     5,
+     5,
+     5,
+     5,
+     5,
+     5,
+     5,
+     5,
+     5,
+     5
+   ]
+}];
+
+module.exports = friendsArray;
